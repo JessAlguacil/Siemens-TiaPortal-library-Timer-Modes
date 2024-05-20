@@ -1,6 +1,4 @@
-![Diseño sin título (1)](https://github.com/JessAlguacil/Siemens-TiaPortal-library-Timer-Modes/assets/54327107/a913a261-fa14-4a21-84ec-802bc2ea7aa9)
-
-_**LIBRARY TIMER MODES SIEMENS**_
+_**ANOTACIONES**_
 
 > [!IMPORTANT]
 > La librería solamente está disponible para TIA PORTAL de SIEMENS
